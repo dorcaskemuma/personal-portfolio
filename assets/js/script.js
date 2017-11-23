@@ -5,7 +5,7 @@ $(document).ready(function () {
     $("#work_scroll").fadeOut();
     $("#contact_scroll").fadeOut();
     $("#resume").click(function () {
-        window.location.href = "#"
+        window.location.href = "assets/resume.pdf"
     });
     $("#skills").click(function () {
         $("#index").fadeOut();
